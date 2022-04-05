@@ -18,4 +18,15 @@ A bit of colored text somewhere on the page using one or more of the colors on t
 At least two horizontal lines (rules) anywhere in two different areas of the page
 Two .jpg or .gif images images
 For this exercise, you should select an image that is already existing on the web.  Once you find an image, you want to find the associated URL and point to it from your web page.  To point to an image on the web, right click the image, view the image information, copy and paste the image’s URL into notepad using the correct HTML tags.
- 
+
+Exercise 2 
+
+http://theresabclarke.com/html-practice-exercises
+
+Look at the image of the web page below.  
+Using HTML coding, replicate the page exactly.  
+Save the file with your first initial and full last name and ex2 (correct example: tclarkeex2.html).  Your file name should have NO spaces.
+The hypertext links for James Madison University and clarketb@jmu.edu must be working links. 
+Don’t forget to include the title by putting the phrase “I Love HTML!!!” in your title tag.
+Tip:  There is one of each in the coding – H1, H2, and H3.  Do not use the font size and bold tags.
+The title tag should not be bold, even thought looks bold in the tab on the screenshot.

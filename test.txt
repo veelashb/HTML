@@ -1,0 +1,21 @@
+Exercise #1:
+
+Start by creating a new .html file in notepad. 
+
+Develop a basic web page using the HTML tags you learned in class. Try to make your page look different than the example HTML page that we developed during class.  Include each of the following elements in ANY order:
+
+The correct html, head, and body tags
+Insert the following phrase, without the quotes, as your title tag: “HTML Beginner Exercise by <insert your first and last name>.”  Example:  HTML Beginner Exercise by Theresa Clarke
+One unordered list of items (must include at least four items)
+One ordered list of items (must include at least four items)
+A bold word or phrase anywhere on the page
+A centered word or phrase anywhere on the page
+An italicized word or phrase anywhere on the page
+A working e-mail address link (where someone can click the link and send you e-mail such as clarketb@jmu.edu)
+At least three hypertext links to other sites on the Internet
+For the three links, use appropriate words/phrases as anchors rather than the URL.  For example, write JMU or James Madison University as the anchor rather than http://www.jmu.edu as the anchor within the body of the page.)
+A bit of colored text somewhere on the page using one or more of the colors on the browser-safe color palatte or HTML color names.
+At least two horizontal lines (rules) anywhere in two different areas of the page
+Two .jpg or .gif images images
+For this exercise, you should select an image that is already existing on the web.  Once you find an image, you want to find the associated URL and point to it from your web page.  To point to an image on the web, right click the image, view the image information, copy and paste the image’s URL into notepad using the correct HTML tags.
+ 
